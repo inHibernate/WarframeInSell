@@ -2,31 +2,31 @@
 
 ### 白金数量
 白金数量：15369
-![](../pictures/界面.jpg)
+![](https://raw.githubusercontent.com/inHibernate/WarframeInSell/master/pictures/界面.jpg)
 
 ### P卡
 
-![](../pictures/P卡1.jpg)
+![](https://raw.githubusercontent.com/inHibernate/WarframeInSell/master/pictures/P卡1.jpg)
 
-![](../pictures/P卡2.jpg)
+![](https://raw.githubusercontent.com/inHibernate/WarframeInSell/master/pictures/P卡2.jpg)
 
 ### 战甲
 仓库中有Rhino Prime 22套多几个小件。
 
-![](../pictures/Rhino.jpg)
+![](https://raw.githubusercontent.com/inHibernate/WarframeInSell/master/pictures/Rhino.jpg)
 
 ### 紫卡
 现有紫卡90个，全部如下。具体请看riven2.md，其中还能凑活请看riven1.md。
 
-![](../pictures/总1.jpg)
+![](https://raw.githubusercontent.com/inHibernate/WarframeInSell/master/pictures/总1.jpg)
 
-![](../pictures/总2.jpg)
+![](https://raw.githubusercontent.com/inHibernate/WarframeInSell/master/pictures/总2.jpg)
 
-![](../pictures/总3.jpg)
+![](https://raw.githubusercontent.com/inHibernate/WarframeInSell/master/pictures/总3.jpg)
 
-![](../pictures/总4.jpg)
+![](https://raw.githubusercontent.com/inHibernate/WarframeInSell/master/pictures/总4.jpg)
 
-![](../pictures/总5.jpg)
+![](https://raw.githubusercontent.com/inHibernate/WarframeInSell/master/pictures/总5.jpg)
 
 ### 联系方式
 QQ：1790998776
