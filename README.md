@@ -16,7 +16,7 @@
 ![](https://raw.githubusercontent.com/inHibernate/WarframeInSell/master/pictures/Rhino.jpg)
 
 ### 紫卡
-现有紫卡90个，全部如下。具体请看riven2.md，其中还能凑活请看riven1.md。
+现有紫卡90个，全部如下。具体请看riven2.md。
 
 ![](https://raw.githubusercontent.com/inHibernate/WarframeInSell/master/pictures/总1.jpg)
 
